@@ -4,7 +4,7 @@ PHP Tool to make site archives (backups).
 Ho to use it:
 -------------
 
-1.  Place it in your desired folder, usually your site's root folder. For example
+1.  Place the Zipper.php file it in your desired folder, usually your site's root folder. For example
     
     /user/public\_html/my\_site/Zipper.php
     
